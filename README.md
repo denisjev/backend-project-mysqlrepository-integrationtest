@@ -4,9 +4,8 @@ En este proyecto se han creado pruebas de integración con xUnit y FluentAsserti
 
 ## Test a realizar
 
-1. Probar el método GetAll del repositorio.
-2. Probar el GetById del repositorio.
-3. Probar el método Add del repositorio.
+1. Probar el método GET de la API para obtener a todos los usuarios.
+2. Probar el método POST de la API para crear un usuario.
 
 ## Ejecución del contenedor MySQL con la base de datos
 
